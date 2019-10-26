@@ -2,3 +2,6 @@
 python manage.py runserver
 python manage.py migrate
 python manage.py makemigrations 
+
+admin:minhajulislam
+pass:z...97
